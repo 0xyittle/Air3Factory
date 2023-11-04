@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// Compiler 0.8.19
 
 pragma solidity ^0.8.4;
 
